@@ -1,32 +1,23 @@
-💻 SE Labs 1–5
+# 💻 SE Labs 1–5
 
-Software Engineering Laboratory Repository
+### Software Engineering Laboratory
 
-A collection of lab exercises, implementations, and supporting resources completed as part of the Software Engineering (SE) Laboratory coursework.
+---
 
-👨‍🎓 Student Details
+## 👨‍🎓 Student Details
 
-Field
+| **Field** | **Details** |
+|:---|:---|
+| **Name** | R Muralidharan |
+| **SRN** | PES2UG24CS387 |
+| **Section** | G |
+| **Course** | Software Engineering |
+| **Labs** | 1–5 |
 
-Details
+---
 
-Name
+## 📖 About This Repository
 
-R Muralidharan
+Welcome to my **Software Engineering Labs 1–5** repository!
 
-SRN
-
-PES2UG24CS387
-
-Section
-
-G
-
-Course
-
-Software Engineering
-
-Labs Covered
-
-Lab 1 – Lab 5
-
+This repository contains the practical exercises, implementations, and supporting files completed as part of the Software Engineering Laboratory coursework. It serves as a collection of my lab work and a record of my practical learning throughout the course.
